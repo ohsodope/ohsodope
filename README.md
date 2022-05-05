@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohsodope
-- 👀 I’m interested in healthcare and making it easy to the right thing.
+- 👀 I’m interested in healthcare, informatics, and making it easy for clinicians to the right thing.
 - 🌱 I’m currently learning how to use Obsidian for work and school (Master's in Nursing).
 
 <!---
